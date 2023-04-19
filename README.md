@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **desenvolvimento web** na <a href="https://www.betrybe.com/">**Trybe**</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **python, mongoDB**.
+- 🌱 &nbsp; Aprendendo mais sobre **python, java**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -20,6 +20,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![sequelize](https://img.shields.io/badge/Sequelize-333333?style=flat&logo=sequelize)
   ![express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 **DevOps**
 
